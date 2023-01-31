@@ -1,0 +1,186 @@
+.header {
+	width: 1350px;
+	height: 94px;
+	background-color: #FFCC00;
+	border-width: 1px;
+	border-style: solid;
+	box-sizing: border-box;	
+	margin: 0px;
+	display:flex;
+}
+a {
+	color:black;
+	text-decoration-line: none
+
+}
+hr {
+
+	margin-left: 0px;
+}
+.imagenlogo {
+	width: 296px;
+	height: 64px;
+	padding-top: 10px;
+	padding-left: 10px;
+	display: flex;
+}
+.bodycolor {
+	background-color: #CCFFFF;
+}
+.header2 {
+	width: 1000px;
+	height: 94px;
+	padding-top: 25px;	
+	color: black;
+	word-spacing: 55px;
+	font-family: Calibri;
+	font-size: 28px;
+	box-sizing: border-box;	
+	padding-left: 55px;
+	display: inline-flex;
+	margin: 0px;
+}
+.clasificacion{
+	text-align: left;
+	margin-top: 5px;
+	margin-bottom: 5px;
+      direction: rtl;
+      unicode-bidi: bidi-override;
+  }
+  .calificar {  	
+  	font-size: 20px;
+  	font-family: Arial;
+  }
+
+  input[type="radio"] {
+  display: none;
+}
+label:hover,
+label:hover ~ label {
+  color: orange;
+}
+
+input[type="radio"]:checked ~ label {
+  color: orange;
+}
+
+label {
+  color: grey;
+}
+body {
+	margin:0px;
+}
+.titulo {
+	font-size: 36px;
+	font-family: Arial;
+	text-align: center;
+	width: 1350px;
+	display:block;
+	box-sizing: border-box;	
+	margin-top: 30px;
+}
+.imagen {
+	width:211px ;
+	height:304px;
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  box-sizing: border-box;	
+}
+.imagen1 {
+		width:150px ;
+	height:226px;
+	padding-top:10px;
+}
+.cuadro1 {
+	display:flex;
+	width:1350px;
+	padding-left: 10px;
+
+	box-sizing: border-box;
+}
+.cuadro2 {
+	display:flex;
+	width: 420px;
+	height: 226px;
+	margin-bottom: 24px;
+	margin-right: 25px;
+	box-sizing: border-box;
+}
+.cuadro3 {
+	width: 275px;
+	height: 226px;
+	margin-left: 15px;
+	box-sizing: border-box;
+}
+.cuadro4 {
+	width: 1350px;
+	padding-left: 150px;
+	display:flex;
+	box-sizing: border-box;
+	padding-bottom: 40px;
+}
+.cuadro5 {
+	width:300px;
+	margin-right: 50px;
+	padding-right: auto;
+	padding-left: auto;
+	text-align: center;
+	box-sizing: border-box;
+}
+.nombreautor {
+	font-family: Arial;
+	font-size: 20px;
+	padding-top: 20px;
+	height: 50px;
+	box-sizing: border-box;
+}
+.articulo {
+	margin:20px;
+	margin-bottom: 30px;
+}
+.titulonoticia {
+	font-family: Arial;
+	font-size: 18px;
+}
+.noticia {
+	font-family: Arial;
+	font-size: 15px;
+}
+.tituloautor {
+display:flex;
+	font-family: Arial;
+	font-size: 12px;
+	margin-bottom: 9px;
+}
+.titulolibro {
+display:flex;
+font-family: Arial;
+font-size: 18px;
+margin-bottom: 4px;
+}
+.descripcion {
+display:flex;
+font-family: Arial;
+font-size: 13px;
+}
+.texto {
+	font-size: 16px;
+	font-family: Arial;
+	box-sizing: border-box;	
+}
+.footer {
+	width: 1350px;
+	height: 53px;
+	background-color: #97473E;
+	padding-top: 8px;
+	padding-right: 30px;
+	text-align: right;
+	word-spacing: 30px;
+	margin:0px;
+	box-sizing: border-box;	
+}
+.imagenred {
+	width: 40px;
+	height: 33px;
+}
